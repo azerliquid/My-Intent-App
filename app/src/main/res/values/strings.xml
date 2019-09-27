@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="pindah">Pindah Activity</string>
+    <string name="ini_pindahActivity">Ini Project Pertamaku</string>
+    <string name="kembali">Kembali</string>
+    <string name="pindahData">Pindah Dengan Data</string>
+    <string name="dial_number">Dial Number</string>
+</resources>
